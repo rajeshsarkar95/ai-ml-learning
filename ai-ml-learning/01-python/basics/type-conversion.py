@@ -85,6 +85,15 @@ result = num + decimal
 print(result)
 print(type(result))
 
+# Common conversion functions:
+# int()  => Integar
+# float() => Float
+# str()   => String
+# Bool()  => Boolean
+# list()  => List
+# tuples() =>Tuples
+# set()    => set()
+# dict()   => Dictinary
 
 
 
